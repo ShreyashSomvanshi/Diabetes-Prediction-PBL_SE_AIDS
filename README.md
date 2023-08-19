@@ -1,6 +1,4 @@
 # PBL_SE_AIDS
-In this Project Based Learning repository we are working on Diabetes Prediction Model using Machine Learning. 
-dataset link:https://github.com/Yantra-Byte/dataset/raw/main/Diabetes.csv
-  ## OR
-https://githubusercontent.com/ShreyashSomvanshi/Datasets/main/Diabetes.csv
+---
 
+🌐 Link: [https://diabetes-prediction-pblseaids.streamlit.app/](https://diabetes-prediction-pblseaids.streamlit.app/)
